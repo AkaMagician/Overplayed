@@ -1,12 +1,13 @@
 OP LIST: 
 ========
 <ol>
-<li>Alan Walker - Alone
+<li> Alan Walker - Alone
 <li> Alan Walker - Fade </li>
 <li> Alan Walker - Faded </li>
 <li> Alan Walker - Sing Me To Sleep </li>
 <li> Alan Walker - Spectre </li>
 <li> Avicii - Levels </li>
+<li> Darude - Sandstorm </li>
 <li> DJ Snake, Lil Jon - Turn Down for What </li>
 <li> DJ Snake, Lil Jon - Turn Down For What (Onderkoffer Remix) </li>
 <li> Dr. Dre - The Next Episode (San Holo Remix) </li>
@@ -24,6 +25,7 @@ OP LIST:
 <li> Knife Party - Internet Friends </li>
 <li> Levels by Avicii (Skrillex Remix) </li>
 <li> Martin Garrix - Animals </li>
+<li> Martin Garrix & Bebe Rexha - In The Name Of Love </li>
 <li> Martin Garrix - Forbidden Voices </li>
 <li> Martin Garrix & Dua Lipa - Scared To Be Lonely </li>
 <li> Martin Garrix & Jay Hardway - Wizard </li>
@@ -39,6 +41,7 @@ OP LIST:
 <li> The Chainsmokers - Roses ft. ROZES </li>
 <li> The Chainsmokers - #SELFIE </li>
 <li> The Eden Project - XO </li>
+<li> The Eden Project - Flumes </li>
 <li> TheFatRat - Monody (feat. Laura Brehm) </li>
 <li> TheFatRat - Unity </li>
 <li> TheFatRat - Windfall </li>
