@@ -23,9 +23,10 @@ OP LIST:
 <li> Knife Party - Bonfire </li>
 <li> Knife Party - Internet Friends </li>
 <li> Levels by Avicii (Skrillex Remix) </li>
-<li> Martin Garrix & Jay Hardway - Wizard </li>
 <li> Martin Garrix - Animals </li>
 <li> Martin Garrix - Forbidden Voices </li>
+<li> Martin Garrix & Dua Lipa - Scared To Be Lonely </li>
+<li> Martin Garrix & Jay Hardway - Wizard </li>
 <li> Skrillex & Damian "Jr. Gong" Marley - Make It Bun Dem </li>
 <li> Skrillex - Bangarang feat. Sirah </li>
 <li> Skrillex - First Of The Year (Equinox) </li>
