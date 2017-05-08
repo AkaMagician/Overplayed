@@ -31,6 +31,7 @@ OP LIST:
 <li> Martin Garrix - Forbidden Voices </li>
 <li> Martin Garrix & Dua Lipa - Scared To Be Lonely </li>
 <li> Martin Garrix & Jay Hardway - Wizard </li>
+<li> S3rl - Feel the melody </li>
 <li> Skrillex & Damian "Jr. Gong" Marley - Make It Bun Dem </li>
 <li> Skrillex - Bangarang feat. Sirah </li>
 <li> Skrillex - First Of The Year (Equinox) </li>
