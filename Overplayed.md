@@ -44,4 +44,4 @@ OP LIST:
 <li> Tristam and Braken - Flight </li>
 <li> Tristam and Braken - Frame of Mind </li>
 <li> Twenty One Pilots - Stressed Out (Tomsize Remix) </li>
-#### And all other versions of these songs(nightcored, bass boosted)(remixes are excluded and will be added seperately)
+<b>#### And all other versions of these songs(nightcored, bass boosted)(remixes are excluded and will be added seperately)<\b>
