@@ -13,6 +13,7 @@ OP LIST:
 <li> Eiffel 65 - Blue (KNY Factory Remix) </li>
 <li> Fetty Wap - Trap Queen (Crankdat Remix) </li>
 <li> Fetty Wap - Trap Queen (K Theory Remix) </li>
+<li> Galantis - No Money </li>
 <li> Galantis - Peanut Butter Jelly </li>
 <li> Galantis - Runaway (U & I) </li>
 <li> Galantis - You </li>
