@@ -24,8 +24,10 @@ OP LIST:
 <li> Knife Party - Bonfire </li>
 <li> Knife Party - Centipede </li>
 <li> Knife Party - Internet Friends </li>
+<li> Krewella - alive </li>
 <li> Levels by Avicii (Skrillex Remix) </li>
 <li> Marshmello - Alone </li>
+<li> Marshmello - Keep it mello </li>
 <li> Martin Garrix - Animals </li>
 <li> Martin Garrix & Bebe Rexha - In The Name Of Love </li>
 <li> Martin Garrix - Forbidden Voices </li>
@@ -43,6 +45,7 @@ OP LIST:
 <li> The Chainsmokers - Don't Let Me Down ft. Daya </li>
 <li> The Chainsmokers - Closer </li>
 <li> The Chainsmokers - Roses ft. ROZES </li>
+<li> The Chainsmokers - Something like this </li>
 <li> The Chainsmokers - #SELFIE </li>
 <li> The Eden Project - XO </li>
 <li> The Eden Project - Flumes </li>
