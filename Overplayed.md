@@ -24,6 +24,7 @@ OP LIST:
 <li> Knife Party - Bonfire </li>
 <li> Knife Party - Internet Friends </li>
 <li> Levels by Avicii (Skrillex Remix) </li>
+<li> Marshmello - Alone </li>
 <li> Martin Garrix - Animals </li>
 <li> Martin Garrix & Bebe Rexha - In The Name Of Love </li>
 <li> Martin Garrix - Forbidden Voices </li>
@@ -36,8 +37,9 @@ OP LIST:
 <li> Skrillex - Scary Monsters And Nice Sprites </li>
 <li> Spag Heddy - Love On First Sine </li>
 <li> Spooky Scary Skeletons (The Living Tombstone Remix) </li>
-<li> Stephen Swartz -- Bullet Train (Feat. Joni Fatora) </li>
+<li> Stephen Swartz - Bullet Train (Feat. Joni Fatora) </li>
 <li> The Chainsmokers - Don't Let Me Down ft. Daya </li>
+<li> The Chainsmokers - Closer </li>
 <li> The Chainsmokers - Roses ft. ROZES </li>
 <li> The Chainsmokers - #SELFIE </li>
 <li> The Eden Project - XO </li>
