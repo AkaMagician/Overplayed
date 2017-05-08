@@ -22,6 +22,7 @@ OP LIST:
 <li> KDrew - Bullseye </li>
 <li> KDrew - Circles </li>
 <li> Knife Party - Bonfire </li>
+<li> Knife Party - Centipede </li>
 <li> Knife Party - Internet Friends </li>
 <li> Levels by Avicii (Skrillex Remix) </li>
 <li> Marshmello - Alone </li>
