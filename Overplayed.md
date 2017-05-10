@@ -53,6 +53,7 @@ OP LIST:
 <li> TheFatRat - Unity </li>
 <li> TheFatRat - Windfall </li>
 <li> TheFatRat - Xenogenesis </li>
+<li> Timmy Trumpet & Savage - Freaks </li>
 <li> Tristam and Braken - Flight </li>
 <li> Tristam and Braken - Frame of Mind </li>
 <li> Twenty One Pilots - Stressed Out (Tomsize Remix) </li>
