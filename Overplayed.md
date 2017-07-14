@@ -19,6 +19,7 @@ OP LIST:
 <li> Galantis - Runaway (U & I) </li>
 <li> Galantis - You </li>
 <li> Imagine Dragons - Radioactive (Synchronice Remix) </li>
+<li> Kazoo Kid - Trap Remix </li>
 <li> KDrew - Bullseye </li>
 <li> KDrew - Circles </li>
 <li> Knife Party - Bonfire </li>
