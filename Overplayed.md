@@ -15,7 +15,6 @@ OP LIST:
   <li> BIG SHAQ - MANS NOT HOT </li>
   <li> Bruno Mars - That’s What I Like </li>
   <li> Childish Gambino - 3005 </li>
-  <li> Childish Gambino - Redbone </li>
   <li> Clean Bandit - Symphony </li>
   <li> Clean Bandit - Rockabye </li>
   <li> Darude - Sandstorm </li>
