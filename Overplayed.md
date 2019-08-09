@@ -21,7 +21,7 @@ OP LIST:
   <li>TheFatRat - Monody (feat. Laura Brehm)</li>
   <li>TheFatRat - Unity</li>
   <li>Wiz Khalifa - See You Again</li>
-  <li>Spooky Scary Skeletons (The Living Tombstone Remix)<li>
+  <li>Spooky Scary Skeletons (The Living Tombstone Remix)</li>
   <li>Stephen Swartz -- Bullet Train</li>
   <li>SKRILLEX - Bangarang</li>
   <li>Skrillex - First Of The Year (Equinox)</li>
