@@ -22,7 +22,7 @@ OP LIST:
   <li>TheFatRat - Unity</li>
   <li>Wiz Khalifa - See You Again</li>
   <li>Spooky Scary Skeletons (The Living Tombstone Remix)<li>
-  <li>Stephen Swartz -- Bullet Train (Feat. Joni Fatora)</li>
+  <li>Stephen Swartz -- Bullet Train</li>
   <li>SKRILLEX - Bangarang</li>
   <li>Skrillex - First Of The Year (Equinox)</li>
   <li>Post Malone - Congratulations</li>
