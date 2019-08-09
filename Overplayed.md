@@ -18,7 +18,7 @@ OP LIST:
 <li>Marshmello - Keep it Mello</li>
 <li>Post Malone - Congratulations</li>
 <li>SKRILLEX - Bangarang</li>
-<li>Skrillex - First Of The Year (Equinox)<li>
+<li>Skrillex - First Of The Year (Equinox)</li>
 <li>Spooky Scary Skeletons (The Living Tombstone Remix)</li>
 <li>Stephen Swartz -- Bullet Train</li>
 <li>The Chainsmokers & Coldplay - Something Just Like This</li>
